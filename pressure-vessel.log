@@ -1,0 +1,132 @@
+Testing for explicit PulseAudio choice...
+...and PulseAudio has been explicitly chosen, so using it.
+steam.sh[40900]: Running Steam on ubuntu 20.04 64-bit
+steam.sh[40900]: STEAM_RUNTIME is enabled automatically
+setup.sh[41020]: Steam runtime environment up-to-date!
+steam.sh[40900]: Steam client's requirements are satisfied
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Loaded SDL version 2.25.0-7450656
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Fontconfig error: Cannot load default config file
+steamwebhelper.sh[41101]: Runtime for steamwebhelper: defaulting to /home/rcb/snap/steam/common/.local/share/Steam/ubuntu12_64/steam-runtime-heavy
+/home/rcb/snap/steam/common/.local/share/Steam/ubuntu12_64/steamwebhelper.sh: line 53: /proc/sys/kernel/unprivileged_userns_clone: Permission denied
+/home/rcb/snap/steam/common/.local/share/Steam/ubuntu12_64/steamwebhelper.sh: line 60: /proc/sys/user/max_user_namespaces: Permission denied
+steamwebhelper.sh[41101]: CEF sandbox already disabled
+Could not connect to X session manager: Could not open network socket
+flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/dejavu/DejaVuSans.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/dejavu/DejaVuSans.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/dejavu/DejaVuSans.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/dejavu/DejaVuSans.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf LOCK_SH failed. errno = 13Installing breakpad exception handler for appid(steam)/version(1661825435)
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+CAppInfoCacheReadFromDiskThread took 68 milliseconds to initialize
+Warning: failed to set thread priority: set failed for 8: -1: setpriority() failed
+Warning: failed to set thread priority: set failed for priority 8
+Warning: support for elevated priorities is most likely unavailable, suppressing future warnings
+Warning: failed to set thread priority: set failed for 8: -1: setpriority() failed
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Warning: failed to set thread priority: set failed for 8: -1: setpriority() failed
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Could not connect to X session manager: Could not open network socket
+flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13Could not connect to X session manager: Could not open network socket
+flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13Installing breakpad exception handler for appid(steam)/version(1661825435)
+
+(steam:41069): Gtk-WARNING **: gtk_disable_setlocale() must be called before gtk_init()
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+local (potentially out of sync) copy of roaming config loaded - 308 bytes.
+roaming config store loaded successfully - 308 bytes.
+migrating temporary roaming config store
+BRefreshApplicationsInLibrary 1: 15ms
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Vulkan missing requested extension 'VK_KHR_surface'.
+Vulkan missing requested extension 'VK_KHR_xlib_surface'.
+BInit - Unable to initialize Vulkan!
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13Could not connect to X session manager: Could not open network socket
+flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Italic.ttf LOCK_SH failed. errno = 13Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13Could not connect to X session manager: Could not open network socket
+flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Failed to init SteamVR because it isn't installed
+[2022-09-03 12:50:45] Startup - updater built Aug 20 2022 01:16:55
+[2022-09-03 12:50:45] Startup - Steam Client launched with: '/home/rcb/snap/steam/common/.local/share/Steam/ubuntu12_32/steam' '-no-cef-sandbox'
+[2022-09-03 12:50:45] Loading cached metrics from disk (/home/rcb/snap/steam/common/.local/share/Steam/package/steam_client_metrics.bin)
+[2022-09-03 12:50:45] Using the following download hosts for Public, Realm steamglobal
+[2022-09-03 12:50:45] 1. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-09-03 12:50:45] 2. https://cdn.akamai.steamstatic.com, /client/, Realm 'steamglobal', weight was 100, source = 'update_hosts_cached.vdf'
+[2022-09-03 12:50:45] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-09-03 12:50:45] Verifying installation...
+[2022-09-03 12:50:46] Verification complete
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+ExecCommandLine: "'/home/rcb/snap/steam/common/.local/share/Steam/ubuntu12_32/steam' '-no-cef-sandbox'"
+System startup time: 6.99 seconds
+flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13flock /usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf LOCK_SH failed. errno = 13Installing breakpad exception handler for appid(steam)/version(1661825435)
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+Could not connect to X session manager: Could not open network socket
+BuildCompleteAppOverviewChange: 154
+RegisterForAppOverview 1: 37ms
+RegisterForAppOverview 2: 37ms
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Warning: failed to set thread priority: set failed for -10: -1: setpriority() failed
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Warning: failed to set thread priority: set failed for -10: -1: setpriority() failed
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Installing breakpad exception handler for appid(steam)/version(1661825435)
+Installing breakpad exception handler for appid(steam)/version(1661825435)
